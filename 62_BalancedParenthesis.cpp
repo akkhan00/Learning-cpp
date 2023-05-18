@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stack>
 using namespace std;
-
+// lol
 bool isNotValid(string s){
   int n = s.size();
   stack<char> st;
