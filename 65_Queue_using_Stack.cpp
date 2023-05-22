@@ -2,6 +2,8 @@
 #include <stack>
 using namespace std;
 
+// video no -> 80 : queue using stack
+
 class que{
   stack<int> s1;
   stack<int> s2; // removed in method 2
